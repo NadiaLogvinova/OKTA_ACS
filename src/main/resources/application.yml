@@ -1,0 +1,10 @@
+#server.port=8080
+
+server:
+#  ssl:
+#    key-store: classpath:keystore.p12
+#    key-store-password: oktaokta
+#    key-store-type: pkcs12
+#    key-alias: keystore
+#    key-password: oktaokta
+  port: 8000
